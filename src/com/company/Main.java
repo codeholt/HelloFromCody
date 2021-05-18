@@ -3,8 +3,9 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// Hey, Cody.  Phillip here ...adding silly comments.
         System.out.println("Hello my name is Cody");
+        System.out.println("Hello, Cody.  My name is Phillip.");
         
     }
 }
